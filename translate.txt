@@ -1,0 +1,29 @@
+{
+  "ar": [
+    "profile_screen_download",
+    "profile_screen_all_digital_products",
+    "profile_screen_on_auction_products",
+    "profile_screen_on_classified_ads",
+    "profile_screen_wholesale_products",
+    "profile_screen_browse_all_sellers",
+    "profile_screen_auction",
+    "profile_screen_classified_products",
+    "package_screen_title",
+    "package_screen_product_upload_limit",
+    "product_details_screen_other_ads_of",
+    "shipping_info_screen_no_carrier",
+    "my_classified_screen_",
+    "my_classified_screen_title",
+    "my_classified_screen_product_screen_remaining_uploads",
+    "whole_sale_product_screen_",
+    "whole_sale_product_screen_title",
+    "checkout_screen_buy_package"
+  ],
+
+  "fr": [
+    "main_screen_bottom_navigation_seller",
+    "contact_us",
+    "cash_on_delivery",
+    "visit_store"
+  ]
+}
